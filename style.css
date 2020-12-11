@@ -45,3 +45,10 @@ div {
 
 
 }
+
+.tableauPlaceholder {
+
+  float: left;
+  margin-left: -375px;
+  margin-bottom: 50px;
+}
